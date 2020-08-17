@@ -15,7 +15,7 @@ set laststatus=2 "status bar"
 
 "visualize tabs and end of line"
 set list
-set listchars=tab:>-,eol:$
+set listchars=tab:>-,eol:¬
 
 set scrolloff=3 "cursor is 3 lines off border when scrolling"
 set incsearch "use incremental search"
